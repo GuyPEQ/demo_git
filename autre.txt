@@ -1,1 +1,7 @@
 Ceci est un fichier texte de qualité
+
+
+celui là aussi je le modifie depuis GitHub
+!!!
+
+Il faudra que je fasse un git pull sur mon portable???
